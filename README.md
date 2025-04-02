@@ -1,6 +1,6 @@
 
 
-# AI MCP Servers ![AIWalaBro](https://cdn.rawgit.com/sindresorhus/AIWalaBro/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+# AI MCP Servers ![AIWalaBro](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
 
 A curated list of awesome Model Context Protocol (MCP) servers. MCP is an open protocol that enables AI models to securely interact with local and remote resources through standardized server implementations. This list focuses on production-ready and experimental MCP servers that extend AI capabilities through file access, database connections, API integrations, and other contextual services.
 
